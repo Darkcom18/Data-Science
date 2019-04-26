@@ -1,2 +1,2 @@
 # Data-Science
-Here are some of my project to analysizing data.
+Here are some of my projects to analysizing data.
